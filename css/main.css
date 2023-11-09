@@ -236,7 +236,7 @@ body {
     width: 25%;
 }
 
->.coluna-rodape a {
+.coluna-rodape a {
     color: var(--texto);
     margin-top: 5px;
     display: block;
