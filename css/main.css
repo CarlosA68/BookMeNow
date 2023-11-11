@@ -368,7 +368,7 @@ color: var(--primaria);
     #formPesquisa{
         margin-left: 15px;
         margin-right: 15px;
-        margin-radius: 10px:
+        border-radius: 10px;
     }
 
     #banner h2{
